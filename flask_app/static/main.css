@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#main_title {
+    color: purple;
+}
+
+#main_title:hover {
+    color: yellow;
+}
+
+#main_title:active {
+    color: red;
+}
